@@ -29,8 +29,8 @@ print ("total : ",total)
 print("average : ",average)
 print("maximum number : ",maximum)
 print("minimum number : ",minimum)
-print("Even Number : ", even_num)
-print("Odd Number : ",odd_num)
+print("total even numbers : ",even_num)
+print("total odd numbers : ",odd_num)
 
 
 print("SUCCESSFULL!!!")
